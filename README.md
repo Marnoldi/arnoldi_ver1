@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Stargazers log</title>
+    <title>What is Megapropodiphora arnoldi</title>
   </head>
   <body>
-    <h1>Stargazers log</h1>
-    <p>A log of the repositories I've starred.</p>
+    <h1>M.arnoldi</h1>
+    <p>The smallest fly in the world</p>
   </body>
 </html>
 
